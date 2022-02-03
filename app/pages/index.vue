@@ -1,7 +1,7 @@
 <template>
   <section class="home">
     <div class="py-24 md:py-36 mx-auto flex flex-wrap flex-col md:flex-row items-center">
-      <div class="flex flex-col w-full xl:w-3/5 justify-center lg:items-start overflow-y-hidden" style="width: 92%;text-align: justify;">
+      <div class="flex flex-col w-full xl:w-3/5 justify-center lg:items-start overflow-y-hidden" style="width: 55%;text-align: justify;margin-right: 25px;">
         <div v-html="$md.render(welcomeText)" class="home__welcome markdown" />
 
         <div class="mb-12 xl:mb-0">
