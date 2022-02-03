@@ -6,7 +6,7 @@ I wanted to explore Netlify CMS & Tailwind CSS, ended up creating this boilerpla
 
 So far we've got:
 
-- Blog w/ posts, including pagination.
+- images w/ posts, including pagination.
 - Configurable manifest & global settings.
 - CSS Markdown (Thanks to [https://github.com/iandinwoodie/github-markdown-tailwindcss/blob/master/markdown.css]).
 - Dynamic pages.
