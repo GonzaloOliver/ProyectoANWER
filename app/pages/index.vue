@@ -16,11 +16,7 @@
         />
       </div>
     </div>
-    <div class="py-24 md:py-36 mx-auto flex flex-wrap flex-col md:flex-row items-center">
-    
-    
-    
-    </div>
+   
   </section>
 </template>
 
