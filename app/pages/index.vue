@@ -4,9 +4,67 @@
       <div class="flex flex-col w-full xl:w-3/5 justify-center lg:items-start overflow-y-hidden" style="width: 55%;text-align: justify;margin-right: 25px;">
         <div v-html="$md.render(welcomeText)" class="home__welcome markdown" />
 
-        <div class="mb-12 xl:mb-0">
-          <h4 v-if="isSignedUp">Thank you - we'll be in touch shortly.</h4>
-        </div>
+        <div class="row">
+			 
+			    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+               
+					<div class="box-part text-center">
+                        
+                        <i class="fa fa-instagram fa-3x" aria-hidden="true"></i>
+                        
+						<div class="title">
+							<h4>Instagram</h4>
+						</div>
+                        
+						<div class="text">
+							<span>Lorem ipsum dolor sit amet, id quo eruditi eloquentiam. Assum decore te sed. Elitr scripta ocurreret qui ad.</span>
+						</div>
+                        
+						<a href="#">Learn More</a>
+                        
+					 </div>
+				</div>	 
+				
+				 <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+               
+					<div class="box-part text-center">
+					    
+					    <i class="fa fa-twitter fa-3x" aria-hidden="true"></i>
+                    
+						<div class="title">
+							<h4>Twitter</h4>
+						</div>
+                        
+						<div class="text">
+							<span>Lorem ipsum dolor sit amet, id quo eruditi eloquentiam. Assum decore te sed. Elitr scripta ocurreret qui ad.</span>
+						</div>
+                        
+						<a href="#">Learn More</a>
+                        
+					 </div>
+				</div>	 
+				
+				 <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+               
+					<div class="box-part text-center">
+                        
+                        <i class="fa fa-facebook fa-3x" aria-hidden="true"></i>
+                        
+						<div class="title">
+							<h4>Facebook</h4>
+						</div>
+                        
+						<div class="text">
+							<span>Lorem ipsum dolor sit amet, id quo eruditi eloquentiam. Assum decore te sed. Elitr scripta ocurreret qui ad.</span>
+						</div>
+                        
+						<a href="#">Learn More</a>
+                        
+					 </div>
+				</div>	 
+				
+		
+		</div>
       </div>
       <div class="flex flex-col w-full xl:w-2/5">
         <img
