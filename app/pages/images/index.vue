@@ -1,7 +1,7 @@
 <template>
-  <section class="blog">
+  <section class="images">
     <div class="py-8 md:py-16 text-center">
-      <h1 class="text-lg md:text-xl lg:text-4xl xl:text-6xl">blog</h1>
+      <h1 class="text-lg md:text-xl lg:text-4xl xl:text-6xl">images</h1>
       <h2 class="text-base md:text-lg lg:text-xl xl:text-2xl">
         Here we can see a sample of each part of the software.
       </h2>
@@ -10,7 +10,7 @@
     <div class="flex flex-wrap md:-mx-4 pb-20">
       <div v-for="(post, index) in posts" :key="index" class="w-full md:w-1/2 my-4 md:px-4">
         <div class="post">
-          <nuxt-link :to="`/blog/${post.slug}`">
+          <nuxt-link :to="`/images/${post.slug}`">
             <img
               :alt="post.title"
               class="w-full"
@@ -46,12 +46,12 @@ const Pagination = () => import('@/components/commons/pagination.vue');
 
   head(): MetaInfo {
     return {
-      title: 'blog',
+      title: 'images',
       meta: [
         {
           hid: 'description',
           name: 'description',
-          content: 'blog index',
+          content: 'images index',
         },
       ],
     };
