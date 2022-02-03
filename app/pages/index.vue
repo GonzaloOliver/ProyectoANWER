@@ -12,7 +12,7 @@
         <img
           alt="Hero"
           class="rounded shadow-xl"
-          src="/images/uploads/B.jpg"
+          src="/images/uploads/dashboard.jpg"
         />
       </div>
     </div>
