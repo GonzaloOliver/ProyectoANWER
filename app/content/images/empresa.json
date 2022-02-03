@@ -1,6 +1,6 @@
 {
-  "publishedAt": "23rd Apr 2021",
-  "title": "test1",
-  "content": "hello",
-  "featuredImage": null
+  "publishedAt": "14th Aug 2020",
+  "featuredImage": "/images/uploads/empresa.jpg",
+  "title": "Company",
+  "content": "Here we can add al the company info."
 }
