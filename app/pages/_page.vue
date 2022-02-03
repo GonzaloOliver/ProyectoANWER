@@ -8,6 +8,7 @@
   </section>
 </template>
 
+
 <script lang="ts">
 import { Component, Vue } from 'nuxt-property-decorator';
 import { MetaInfo } from 'vue-meta';
