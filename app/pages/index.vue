@@ -2,13 +2,8 @@
   <section class="home">
     <div class="py-24 md:py-36 mx-auto flex flex-wrap flex-col md:flex-row items-center">
       <div class="flex flex-col w-full xl:w-3/5 justify-center lg:items-start overflow-y-hidden" style="width: 55%;text-align: justify;margin-right: 25px;">
+       
         <div v-html="$md.render(welcomeText)" class="home__welcome markdown" />
-          <div class="card">
-          <img src="generated/images/marketing/home/code-icon.svg" alt="Get Started with Angular" width="70" height="70" loading="lazy">
-          <div class="card-text-container">
-            <div class="text-headline">Try it now</div>
-            <p>Explore Angular's capabilities with a ready-made sample app. No setup required.</p>
-          </div>
         </div>
 
         </div> 
@@ -20,6 +15,11 @@
           src="/images/uploads/B.jpg"
         />
       </div>
+    </div>
+    <div class="py-24 md:py-36 mx-auto flex flex-wrap flex-col md:flex-row items-center">
+    
+    
+    
     </div>
   </section>
 </template>
