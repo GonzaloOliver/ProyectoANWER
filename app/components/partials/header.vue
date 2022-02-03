@@ -26,6 +26,7 @@
   </header>
 </template>
 
+
 <script lang="ts">
 import { Component, Vue } from 'nuxt-property-decorator';
 import settings from '@/content/settings/general.json';
