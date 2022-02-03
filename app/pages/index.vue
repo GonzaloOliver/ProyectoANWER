@@ -14,6 +14,12 @@
           class="rounded shadow-xl"
           src="/images/uploads/B.jpg"
         />
+        <img
+          style="border-radius:150px;"
+          alt="Hero"
+          class="rounded shadow-xl"
+          src="/images/uploads/B.jpg"
+        />
       </div>
     </div>
    
