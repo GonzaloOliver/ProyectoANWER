@@ -4,8 +4,10 @@
       <div class="flex flex-col w-full xl:w-3/5 justify-center lg:items-start overflow-y-hidden" style="width: 55%;text-align: justify;margin-right: 25px;">
         <div v-html="$md.render(welcomeText)" class="home__welcome markdown" />
 
-        </div> 
-  		</div>
+        <div class="mb-12 xl:mb-0">
+          <h4 v-if="isSignedUp">Thank you - we'll be in touch shortly.</h4>
+        </div>
+      </div>
       <div class="flex flex-col w-full xl:w-2/5">
         <img
           alt="Hero"
@@ -14,7 +16,6 @@
         />
       </div>
     </div>
-   
   </section>
 </template>
 
