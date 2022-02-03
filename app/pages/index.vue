@@ -37,7 +37,7 @@
         <img
           alt="Hero"
           class="rounded shadow-xl"
-          src="/images/uploads/pakistani-chicken-biryani.jpg"
+          src="/images/uploads/B.pgn"
         />
       </div>
     </div>
