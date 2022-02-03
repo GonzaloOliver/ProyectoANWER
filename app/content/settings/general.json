@@ -1,7 +1,7 @@
 {
   "title": "Homev",
   "titleTemplate": "| Bluise",
-  "welcomeText": "# ANWER\n\n Is a beautifully designed, customizable and simple inventory software system for any business that buys and sells goods.",
+  "welcomeText": "# ANWER\n\n Is a beautifully designed, customizable and simple inventory software system for any business that buys and sells goods. It was originally develop for a painting store but because of its flexibility it can be implemented in any sector.",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
