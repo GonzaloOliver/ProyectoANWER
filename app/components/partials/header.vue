@@ -14,8 +14,8 @@
           </nuxt-link>
         </li>
         <li>
-          <nuxt-link to="/images" class="block font-medium px-4 py-1 md:p-2 lg:px-4">
-            Images 2
+          <nuxt-link to="/technology" class="block font-medium px-4 py-1 md:p-2 lg:px-4">
+            Technology
           </nuxt-link>
         </li>
         <!--<li
