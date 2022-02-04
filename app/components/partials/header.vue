@@ -13,14 +13,18 @@
             Images
           </nuxt-link>
         </li>
-
-        <li
+        <li>
+          <nuxt-link to="/images" class="block font-medium px-4 py-1 md:p-2 lg:px-4">
+            Images 2
+          </nuxt-link>
+        </li>
+        <!--<li
           v-for="(page, index) in pages"
           :key="index"
           class="block font-medium px-4 py-1 md:p-2 lg:px-4"
         >
           <nuxt-link :to="`/${page.slug}`">{{ page.title }}</nuxt-link>
-        </li>
+        </li>-->
       </ul>
     </nav>
   </header>
