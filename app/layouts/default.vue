@@ -1,5 +1,5 @@
 <template>
-  <main :class="[$route.name]" class="main px-4 md:px-0">
+  <main :class="[$route.name]" class="main px-4 md:px-0" style="background-color: #E6F0FE;">
     <div class="container mx-auto">
       <site-header />
       <nuxt class="nuxt" />
