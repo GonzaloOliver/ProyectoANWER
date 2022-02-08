@@ -1,10 +1,13 @@
 {
   "title": "Home",
   "titleTemplate": "| ANWER",
-  "welcomeText": "# ANWER\n\n Is a beautifully and simple inventory software system for any business that buys and sells goods.\n\n It was originally develop for a painting store but because of its flexibility can be implemented\n\n in any sector.",
+  "welcomeText": "# ANWER\n\n Is a beautifully and simple inventory software system for any business that buys and sells goods.\n\n It was originally developed for a paint shop but due to its flexibility it can be implemented in any sector.",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
   "seoDescription": "A quickstart for Nuxt & Netlify CMS",
   "seoMetaImage": ""
+
+  
+
 }
